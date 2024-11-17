@@ -59,18 +59,18 @@ f"{row[5]:.2f}" memastikan nilai akhir ditampilkan dengan dua angka di belakang 
 
 Contoh Hasil Program
 Jika diinputkan data sebagai berikut:
-Nama:Zainal
-NIM: 312410215
+Nama:Safaraz
+NIM: 312410176
 Nilai Tugas: 80
-Nilai UTS: 80
-Nilai UAS: 70
+Nilai UTS: 100
+Nilai UAS: 100
 Tambah data (y/t)? t
 
 Outputnya:
 --------------------------------------------------
 | No | Nama |     NIM      | Tugas | UTS | UAS | Akhir |
 --------------------------------------------------
-| 1  | Zainal  | 312410215 | 80    | 80  | 70  | 76.50 |
+| 1  | Safaraz  | 312410176 | 90    | 95  | 95  | 93.50 |
 --------------------------------------------------
 
 # Kesimpulan
